@@ -4,11 +4,11 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <link href="<c:url value="/res/style.css"/>" rel="stylesheet" type="text/css"/>
-    <link rel="icon" type="image/png" href="<c:url value="/res/icon.png"/>" />
+
     <title>PARTS</title>
 </head>
 <body>
-<%--<table class="style">--%>
+
 <table border="2" width="70%" cellpadding="2">
 <caption class="heading">Детали для сборки компьютера</caption>
     <caption class="filter">
